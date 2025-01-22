@@ -59,7 +59,6 @@ Este projeto simula um sorteio de amigo secreto, onde você pode adicionar nomes
 </html>
 
 
-
 ---
 ## Licença
 
