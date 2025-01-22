@@ -57,9 +57,13 @@ Este projeto simula um sorteio de amigo secreto, onde você pode adicionar nomes
     <script src="app.js" defer></script>
 </body>
 </html>
-
-
 ---
+## Capturas de Tela
+
+### Captura de Tela 1: Interface Inicial
+![alt text](img/image.png)
+
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
