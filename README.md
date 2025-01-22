@@ -61,5 +61,6 @@ Este projeto simula um sorteio de amigo secreto, onde você pode adicionar nomes
 
 
 ---
+## Licença
 
-Esse `README.md` utiliza Markdown para a formatação, mas também inclui blocos de código HTML e JavaScript com a sintaxe adequada. Se você precisar de algo mais específico ou de mais detalhes, posso te ajudar!
+Este projeto está licenciado sob a [MIT License](LICENSE).
