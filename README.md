@@ -61,7 +61,7 @@ Este projeto simula um sorteio de amigo secreto, onde você pode adicionar nomes
 ## Capturas de Tela
 
 ### Captura de Tela 1: Interface Inicial
-![alt text](img/image.png)
+![alt text](image.png)
 
 
 ## Licença
