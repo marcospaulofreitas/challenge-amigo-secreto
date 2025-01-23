@@ -46,6 +46,4 @@ function exibirSorteado (indice) {
       let amigoSorteado = amigos[indice];
       let campo = document.getElementById('resultado');  
       campo.innerHTML = amigoSorteado;
-
-      console.log(amigoSorteado); // Mostra o nome no console para testes.
 }
