@@ -1,4 +1,4 @@
-# Amigo Secreto Projeto Lógica de Programação
+# Amigo Secreto Projeto Lógica de Programação.
 
 Este projeto simula um sorteio de amigo secreto, onde você pode adicionar nomes à lista de amigos e, ao clicar no botão, realizar o sorteio aleatório de um amigo para presenteá-lo. A lista de amigos é exibida dinamicamente, e o sorteio pode ser feito quando houver pelo menos 2 nomes.
 
